@@ -1,4 +1,4 @@
-# Full Study Plan: My Syllabus Schedule
+# Full Study Plan: Hazrat's Syllabus Schedule
 
 ## Week 1 (Dec 11–Dec 16)
 **Day 1 (Dec 11, Wednesday)**  
@@ -176,6 +176,35 @@
 - Mathematics: **Revise Determinants**  
 - English: **Flamingo - Revise The Last Lesson**  
 
-## Week 7 and Beyond: Revision & Practice
-- Revise all chapters in rotation.  
-- Allocate time for **past papers, sample questions**, and mock exams.
+## Week 7 (Jan 20–Jan 25)
+**Day 35 (Jan 20, Monday)**  
+- Physics: **Wave Optics** (Half)  
+- Chemistry: **Surface Chemistry** (Half)  
+- English: **Vistas - Revise The Tiger King**  
+
+**Day 36 (Jan 21, Tuesday)**  
+- Physics: **Wave Optics** (Complete)  
+- Chemistry: **Surface Chemistry** (Complete)  
+- English: **Supplementary - The Cutting of My Long Hair**  
+
+**Day 37 (Jan 22, Wednesday)**  
+- Physics: **Dual Nature of Radiation and Matter** (Half)  
+- Chemistry: **General Principles and Processes of Isolation of Elements** (Half)  
+- English: **Supplementary - We Too Are Human Beings**  
+
+**Day 38 (Jan 23, Thursday)**  
+- Physics: **Dual Nature of Radiation and Matter** (Complete)  
+- Chemistry: **General Principles and Processes of Isolation of Elements** (Complete)  
+- English: **Review all Supplementary chapters**  
+
+**Day 39 (Jan 24, Friday)**  
+- Physics: **Atoms and Nuclei** (Half)  
+- Chemistry: **P-block Elements** (Half)  
+- English: **Review Prose chapters**  
+
+**Day 40 (Jan 25, Saturday)**  
+- Physics: **Atoms and Nuclei** (Complete)  
+- Chemistry: **P-block Elements** (Complete)  
+- English: **Review Poetry chapters**  
+
+---
